@@ -8,7 +8,7 @@ Tecnicatura Universitaria en Programación a Distancia, Universidad Tecnológica
 | **Integrante** | Roque Ramallo Carmona |
 | **Docente titular** | Prof. Carolina Bruno |
 | **Docente tutora** | Prof. Laureana Gangge |
-| **Tablero del proyecto** | [GitHub Projects – Backlog TPI Arcor](https://github.com/users/TU-USUARIO/projects/1) |
+| **Tablero del proyecto** | [GitHub Projects – Backlog TPI Arcor](https://github.com/users/roqueramallo2017-bit/projects/1) |
 
 ---
 
