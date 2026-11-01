@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2950" height="832" viewBox="0 0 2950 832"><rect x="0" y="0" width="2950" height="832" fill="white"/><defs><marker id="seqEnd" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker><marker id="msgEnd" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="white" stroke="#444" stroke-width="1.2"/></marker></defs><rect x="10" y="180" width="2930" height="640" fill="white" stroke="#111" stroke-width="1.8"/>
+<line x1="42" y1="180" x2="42" y2="820" stroke="#111" stroke-width="1.5"/>
+<text transform="translate(27.0,500.0) rotate(-90)" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Grupo Arcor</text>
+<rect x="42" y="180" width="2898" height="128" fill="#f6f8fb" stroke="#111" stroke-width="1"/>
+<line x1="86" y1="180" x2="86" y2="308" stroke="#111" stroke-width="1"/>
+<g transform="translate(64.0,244.0) rotate(-90)"><text x="0.0" y="-7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Compras y</text>
+<text x="0.0" y="7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Abastecimiento</text></g>
+<rect x="42" y="308" width="2898" height="128" fill="#ffffff" stroke="#111" stroke-width="1"/>
+<line x1="86" y1="308" x2="86" y2="436" stroke="#111" stroke-width="1"/>
+<g transform="translate(64.0,372.0) rotate(-90)"><text x="0.0" y="0.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Producción</text></g>
+<rect x="42" y="436" width="2898" height="128" fill="#eef5ff" stroke="#111" stroke-width="1"/>
+<line x1="86" y1="436" x2="86" y2="564" stroke="#111" stroke-width="1"/>
+<g transform="translate(64.0,500.0) rotate(-90)"><text x="0.0" y="-7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Sistema de Gestión</text>
+<text x="0.0" y="7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">de Inventario</text></g>
+<rect x="42" y="564" width="2898" height="128" fill="#ffffff" stroke="#111" stroke-width="1"/>
+<line x1="86" y1="564" x2="86" y2="692" stroke="#111" stroke-width="1"/>
+<g transform="translate(64.0,628.0) rotate(-90)"><text x="0.0" y="-7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Depósito</text>
+<text x="0.0" y="7.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">(Logística)</text></g>
+<rect x="42" y="692" width="2898" height="128" fill="#f6f8fb" stroke="#111" stroke-width="1"/>
+<line x1="86" y1="692" x2="86" y2="820" stroke="#111" stroke-width="1"/>
+<g transform="translate(64.0,756.0) rotate(-90)"><text x="0.0" y="0.0" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">Control de Calidad</text></g>
+<rect x="1282" y="20" width="1658" height="120" fill="#fffaf0" stroke="#111" stroke-width="1.8"/>
+<polyline points="1610.0,80.0 1668.0,80.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1792.0,80.0 1850.0,80.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<line x1="1314" y1="20" x2="1314" y2="140" stroke="#111" stroke-width="1.5"/>
+<text transform="translate(1299.0,80.0) rotate(-90)" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" dominant-baseline="middle">Proveedor</text>
+<polyline points="200.0,372.0 258.0,372.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="320.0,414.0 320.0,500.0 396.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="520.0,500.0 571.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="621.0,500.0 672.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="627.0" y="488.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Sí</text>
+<polyline points="796.0,500.0 847.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="872.0,475.0 872.0,390.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="879.0" y="459.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">No</text>
+<polyline points="897.0,500.0 985.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="903.0" y="488.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Sí</text>
+<polyline points="596.0,525.0 596.0,561.0 1010.0,561.0 1010.0,525.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="603.0" y="541.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">No</text>
+<polyline points="1035.0,500.0 1086.0,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1148.0,458.0 1148.0,286.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1210.0,244.0 1268.0,244.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1472.0,244.0 1530.0,244.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1592.0,286.0 1592.0,628.0 1850.0,628.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1886.0,628.0 1944.0,628.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2068.0,628.0 2119.0,628.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2144.0,603.0 2144.0,244.0 2220.0,244.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="2151.0" y="587.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">No</text>
+<polyline points="2344.0,244.0 2402.0,244.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2169.0,628.0 2282.0,628.0 2282.0,542.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="2175.0" y="616.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Sí</text>
+<polyline points="2344.0,500.0 2420.0,500.0 2420.0,714.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2482.0,756.0 2533.0,756.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2558.0,731.0 2558.0,500.0 2682.3,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="2565.0" y="715.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Aprobado</text>
+<polyline points="2583.0,756.0 2682.3,756.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/><text x="2589.0" y="744.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Rechazado</text>
+<polyline points="2806.3,500.0 2843.6,500.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="2806.3,756.0 2843.6,756.0" fill="none" stroke="#111" stroke-width="1.6" marker-end="url(#seqEnd)"/>
+<polyline points="1592.0,202.0 1592.0,98.0" fill="none" stroke="#444" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#msgEnd)"/><circle cx="1592.0" cy="197.0" r="4.5" fill="white" stroke="#444" stroke-width="1.3"/><text x="1600.0" y="150.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Orden de compra</text>
+<polyline points="1868.0,98.0 1868.0,610.0" fill="none" stroke="#444" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#msgEnd)"/><circle cx="1868.0" cy="103.0" r="4.5" fill="white" stroke="#444" stroke-width="1.3"/><text x="1876.0" y="354.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Mercadería + remito</text>
+<polyline points="2282.0,202.0 2282.0,140.0" fill="none" stroke="#444" stroke-width="1.4" stroke-dasharray="7,5" marker-end="url(#msgEnd)"/><circle cx="2282.0" cy="197.0" r="4.5" fill="white" stroke="#444" stroke-width="1.3"/><text x="2290.0" y="171.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="start" dominant-baseline="middle" fill="#111">Reclamo</text>
+<circle cx="182.0" cy="372.0" r="18" fill="white" stroke="#111" stroke-width="1.6"/>
+<text x="182.0" y="395.6" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Orden de</text>
+<text x="182.0" y="410.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">producción</text>
+<text x="182.0" y="424.4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">planificada</text>
+<rect x="258.0" y="330.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="270.0" cy="340.0" r="4" fill="none" stroke="#111" stroke-width="1.3"/><path d="M262.0,354.0 Q262.0,345.0 270.0,345.0 Q278.0,345.0 278.0,354.0 Z" fill="none" stroke="#111" stroke-width="1.3"/>
+<text x="320.0" y="361.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Solicitar materia</text>
+<text x="320.0" y="377.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">prima para la</text>
+<text x="320.0" y="392.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">orden</text>
+<rect x="396.0" y="458.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="414.0" y1="472.0" x2="418.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="412.5" y1="475.5" x2="415.4" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="409.0" y1="477.0" x2="409.0" y2="481.0" stroke="#111" stroke-width="2.6"/><line x1="405.5" y1="475.5" x2="402.6" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="404.0" y1="472.0" x2="400.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="405.5" y1="468.5" x2="402.6" y2="465.6" stroke="#111" stroke-width="2.6"/><line x1="409.0" y1="467.0" x2="409.0" y2="463.0" stroke="#111" stroke-width="2.6"/><line x1="412.5" y1="468.5" x2="415.4" y2="465.6" stroke="#111" stroke-width="2.6"/><circle cx="409.0" cy="472.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="409.0" cy="472.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="458.0" y="489.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Verificar stock</text>
+<text x="458.0" y="505.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">disponible (solo</text>
+<text x="458.0" y="520.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">lotes APROBADO)</text>
+<polygon points="596.0,475.0 621.0,500.0 596.0,525.0 571.0,500.0" fill="white" stroke="#111" stroke-width="1.6"/>
+<path d="M587.0,491.0 L605.0,509.0 M605.0,491.0 L587.0,509.0" stroke="#111" stroke-width="3.2"/>
+<text x="596.0" y="453.0" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">¿Stock suficiente?</text>
+<rect x="672.0" y="458.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="690.0" y1="472.0" x2="694.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="688.5" y1="475.5" x2="691.4" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="685.0" y1="477.0" x2="685.0" y2="481.0" stroke="#111" stroke-width="2.6"/><line x1="681.5" y1="475.5" x2="678.6" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="680.0" y1="472.0" x2="676.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="681.5" y1="468.5" x2="678.6" y2="465.6" stroke="#111" stroke-width="2.6"/><line x1="685.0" y1="467.0" x2="685.0" y2="463.0" stroke="#111" stroke-width="2.6"/><line x1="688.5" y1="468.5" x2="691.4" y2="465.6" stroke="#111" stroke-width="2.6"/><circle cx="685.0" cy="472.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="685.0" cy="472.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="734.0" y="489.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Registrar SALIDA</text>
+<text x="734.0" y="505.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">y descontar del</text>
+<text x="734.0" y="520.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">lote</text>
+<polygon points="872.0,475.0 897.0,500.0 872.0,525.0 847.0,500.0" fill="white" stroke="#111" stroke-width="1.6"/>
+<path d="M863.0,491.0 L881.0,509.0 M881.0,491.0 L863.0,509.0" stroke="#111" stroke-width="3.2"/>
+<text x="872.0" y="535.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">¿Stock por debajo</text>
+<text x="872.0" y="548.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">del mínimo?</text>
+<circle cx="872.0" cy="372.0" r="18" fill="white" stroke="#111" stroke-width="4"/>
+<text x="872.0" y="324.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Materia prima</text>
+<text x="872.0" y="339.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">entregada</text>
+<polygon points="1010.0,475.0 1035.0,500.0 1010.0,525.0 985.0,500.0" fill="white" stroke="#111" stroke-width="1.6"/>
+<path d="M1001.0,491.0 L1019.0,509.0 M1019.0,491.0 L1001.0,509.0" stroke="#111" stroke-width="3.2"/>
+<rect x="1086.0" y="458.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="1104.0" y1="472.0" x2="1108.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="1102.5" y1="475.5" x2="1105.4" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="1099.0" y1="477.0" x2="1099.0" y2="481.0" stroke="#111" stroke-width="2.6"/><line x1="1095.5" y1="475.5" x2="1092.6" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="1094.0" y1="472.0" x2="1090.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="1095.5" y1="468.5" x2="1092.6" y2="465.6" stroke="#111" stroke-width="2.6"/><line x1="1099.0" y1="467.0" x2="1099.0" y2="463.0" stroke="#111" stroke-width="2.6"/><line x1="1102.5" y1="468.5" x2="1105.4" y2="465.6" stroke="#111" stroke-width="2.6"/><circle cx="1099.0" cy="472.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="1099.0" cy="472.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="1148.0" y="497.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Generar alerta de</text>
+<text x="1148.0" y="512.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">reposición</text>
+<rect x="1086.0" y="202.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="1098.0" cy="212.0" r="4" fill="none" stroke="#111" stroke-width="1.3"/><path d="M1090.0,226.0 Q1090.0,217.0 1098.0,217.0 Q1106.0,217.0 1106.0,226.0 Z" fill="none" stroke="#111" stroke-width="1.3"/>
+<text x="1148.0" y="233.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Revisar alerta y</text>
+<text x="1148.0" y="249.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">seleccionar</text>
+<text x="1148.0" y="264.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">proveedor</text>
+<circle cx="1286.0" cy="244.0" r="18" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="1286.0" cy="244.0" r="14" fill="none" stroke="#111" stroke-width="1.3"/>
+<polygon points="1279.0,241.0 1287.0,241.0 1287.0,236.0 1294.0,244.0 1287.0,252.0 1287.0,247.0 1279.0,247.0" fill="#111" stroke="#111" stroke-width="1.2"/>
+<text x="1286.0" y="274.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">A: emitir orden</text>
+<text x="1286.0" y="289.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">de compra</text>
+<circle cx="1454.0" cy="244.0" r="18" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="1454.0" cy="244.0" r="14" fill="none" stroke="#111" stroke-width="1.3"/>
+<polygon points="1447.0,241.0 1455.0,241.0 1455.0,236.0 1462.0,244.0 1455.0,252.0 1455.0,247.0 1447.0,247.0" fill="white" stroke="#111" stroke-width="1.2"/>
+<text x="1454.0" y="282.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">A</text>
+<rect x="1530.0" y="202.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<rect x="1536.0" y="209.5" width="16" height="11" fill="#111" stroke="#111" stroke-width="1.2"/><polyline points="1536.0,209.5 1544.0,216.0 1552.0,209.5" fill="none" stroke="white" stroke-width="1.2"/>
+<text x="1592.0" y="241.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Emitir orden de</text>
+<text x="1592.0" y="256.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">compra (OC)</text>
+<circle cx="1592.0" cy="80.0" r="18" fill="white" stroke="#111" stroke-width="1.6"/>
+<rect x="1584.0" y="74.5" width="16" height="11" fill="white" stroke="#111" stroke-width="1.2"/><polyline points="1584.0,74.5 1592.0,81.0 1600.0,74.5" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="1592.0" y="47.0" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">OC recibida</text>
+<rect x="1668.0" y="38.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+
+<text x="1730.0" y="69.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Preparar y</text>
+<text x="1730.0" y="85.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">despachar</text>
+<text x="1730.0" y="100.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">mercadería</text>
+<circle cx="1868.0" cy="80.0" r="18" fill="white" stroke="#111" stroke-width="4"/>
+<rect x="1860.0" y="74.5" width="16" height="11" fill="#111" stroke="#111" stroke-width="1.2"/><polyline points="1860.0,74.5 1868.0,81.0 1876.0,74.5" fill="none" stroke="white" stroke-width="1.2"/>
+<text x="1868.0" y="32.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Mercadería</text>
+<text x="1868.0" y="47.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">despachada</text>
+<circle cx="1868.0" cy="628.0" r="18" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="1868.0" cy="628.0" r="14" fill="none" stroke="#111" stroke-width="1.3"/>
+<rect x="1860.0" y="622.5" width="16" height="11" fill="white" stroke="#111" stroke-width="1.2"/><polyline points="1860.0,622.5 1868.0,629.0 1876.0,622.5" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="1868.0" y="658.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Mercadería</text>
+<text x="1868.0" y="673.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">recibida</text>
+<rect x="1944.0" y="586.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="1956.0" cy="596.0" r="4" fill="none" stroke="#111" stroke-width="1.3"/><path d="M1948.0,610.0 Q1948.0,601.0 1956.0,601.0 Q1964.0,601.0 1964.0,610.0 Z" fill="none" stroke="#111" stroke-width="1.3"/>
+<text x="2006.0" y="617.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Controlar</text>
+<text x="2006.0" y="633.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">mercadería contra</text>
+<text x="2006.0" y="648.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">remito y OC</text>
+<polygon points="2144.0,603.0 2169.0,628.0 2144.0,653.0 2119.0,628.0" fill="white" stroke="#111" stroke-width="1.6"/>
+<path d="M2135.0,619.0 L2153.0,637.0 M2153.0,619.0 L2135.0,637.0" stroke="#111" stroke-width="3.2"/>
+<text x="2144.0" y="663.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">¿Coincide con la</text>
+<text x="2144.0" y="676.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">OC?</text>
+<rect x="2220.0" y="202.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<rect x="2226.0" y="209.5" width="16" height="11" fill="#111" stroke="#111" stroke-width="1.2"/><polyline points="2226.0,209.5 2234.0,216.0 2242.0,209.5" fill="none" stroke="white" stroke-width="1.2"/>
+<text x="2282.0" y="233.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Rechazar entrega</text>
+<text x="2282.0" y="249.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">y reclamar al</text>
+<text x="2282.0" y="264.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">proveedor</text>
+<circle cx="2420.0" cy="244.0" r="18" fill="white" stroke="#111" stroke-width="4"/>
+<text x="2420.0" y="274.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Entrega</text>
+<text x="2420.0" y="289.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">rechazada</text>
+<rect x="2220.0" y="458.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="2238.0" y1="472.0" x2="2242.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="2236.5" y1="475.5" x2="2239.4" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="2233.0" y1="477.0" x2="2233.0" y2="481.0" stroke="#111" stroke-width="2.6"/><line x1="2229.5" y1="475.5" x2="2226.6" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="2228.0" y1="472.0" x2="2224.0" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="2229.5" y1="468.5" x2="2226.6" y2="465.6" stroke="#111" stroke-width="2.6"/><line x1="2233.0" y1="467.0" x2="2233.0" y2="463.0" stroke="#111" stroke-width="2.6"/><line x1="2236.5" y1="468.5" x2="2239.4" y2="465.6" stroke="#111" stroke-width="2.6"/><circle cx="2233.0" cy="472.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="2233.0" cy="472.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="2282.0" y="481.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Registrar lote</text>
+<text x="2282.0" y="497.2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">OBSERVADO y</text>
+<text x="2282.0" y="512.8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">movimiento</text>
+<text x="2282.0" y="528.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">ENTRADA</text>
+<rect x="2358.0" y="714.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<circle cx="2370.0" cy="724.0" r="4" fill="none" stroke="#111" stroke-width="1.3"/><path d="M2362.0,738.0 Q2362.0,729.0 2370.0,729.0 Q2378.0,729.0 2378.0,738.0 Z" fill="none" stroke="#111" stroke-width="1.3"/>
+<text x="2420.0" y="745.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Inspeccionar lote</text>
+<text x="2420.0" y="761.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">(análisis de</text>
+<text x="2420.0" y="776.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">calidad)</text>
+<polygon points="2558.0,731.0 2583.0,756.0 2558.0,781.0 2533.0,756.0" fill="white" stroke="#111" stroke-width="1.6"/>
+<path d="M2549.0,747.0 L2567.0,765.0 M2567.0,747.0 L2549.0,765.0" stroke="#111" stroke-width="3.2"/>
+<text x="2558.0" y="791.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">¿Resultado de la</text>
+<text x="2558.0" y="804.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" dominant-baseline="middle" fill="#111">inspección?</text>
+<rect x="2682.3" y="458.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="2700.3" y1="472.0" x2="2704.3" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="2698.8" y1="475.5" x2="2701.7" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="2695.3" y1="477.0" x2="2695.3" y2="481.0" stroke="#111" stroke-width="2.6"/><line x1="2691.8" y1="475.5" x2="2688.9" y2="478.4" stroke="#111" stroke-width="2.6"/><line x1="2690.3" y1="472.0" x2="2686.3" y2="472.0" stroke="#111" stroke-width="2.6"/><line x1="2691.8" y1="468.5" x2="2688.9" y2="465.6" stroke="#111" stroke-width="2.6"/><line x1="2695.3" y1="467.0" x2="2695.3" y2="463.0" stroke="#111" stroke-width="2.6"/><line x1="2698.8" y1="468.5" x2="2701.7" y2="465.6" stroke="#111" stroke-width="2.6"/><circle cx="2695.3" cy="472.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="2695.3" cy="472.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="2744.3" y="489.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Cambiar lote a</text>
+<text x="2744.3" y="505.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">APROBADO y</text>
+<text x="2744.3" y="520.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">actualizar stock</text>
+<circle cx="2861.6" cy="500.0" r="18" fill="white" stroke="#111" stroke-width="4"/>
+<text x="2861.6" y="530.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Stock repuesto y</text>
+<text x="2861.6" y="545.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">disponible</text>
+<rect x="2682.3" y="714.0" width="124" height="84" rx="10" fill="white" stroke="#111" stroke-width="1.6"/>
+<line x1="2700.3" y1="728.0" x2="2704.3" y2="728.0" stroke="#111" stroke-width="2.6"/><line x1="2698.8" y1="731.5" x2="2701.7" y2="734.4" stroke="#111" stroke-width="2.6"/><line x1="2695.3" y1="733.0" x2="2695.3" y2="737.0" stroke="#111" stroke-width="2.6"/><line x1="2691.8" y1="731.5" x2="2688.9" y2="734.4" stroke="#111" stroke-width="2.6"/><line x1="2690.3" y1="728.0" x2="2686.3" y2="728.0" stroke="#111" stroke-width="2.6"/><line x1="2691.8" y1="724.5" x2="2688.9" y2="721.6" stroke="#111" stroke-width="2.6"/><line x1="2695.3" y1="723.0" x2="2695.3" y2="719.0" stroke="#111" stroke-width="2.6"/><line x1="2698.8" y1="724.5" x2="2701.7" y2="721.6" stroke="#111" stroke-width="2.6"/><circle cx="2695.3" cy="728.0" r="6" fill="white" stroke="#111" stroke-width="1.5"/><circle cx="2695.3" cy="728.0" r="2.3" fill="none" stroke="#111" stroke-width="1.2"/>
+<text x="2744.3" y="745.4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Marcar RECHAZADO</text>
+<text x="2744.3" y="761.0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">y registrar</text>
+<text x="2744.3" y="776.6" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">AJUSTE de baja</text>
+<circle cx="2861.6" cy="756.0" r="18" fill="white" stroke="#111" stroke-width="4"/>
+<text x="2861.6" y="786.8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">Lote dado de</text>
+<text x="2861.6" y="801.2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="normal" text-anchor="middle" dominant-baseline="middle" fill="#111">baja</text></svg>
